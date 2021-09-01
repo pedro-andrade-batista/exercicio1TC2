@@ -1,3 +1,5 @@
+// Pedro Andrade SC3006921
+
 import { Component } from '@angular/core';
 
 @Component({

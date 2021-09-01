@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "exercicio1"
+  "defaultProject": "exercicio1",
+  "cli": {
+    "analytics": false
+  }
 }
